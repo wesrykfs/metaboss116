@@ -1,0 +1,47 @@
+{
+  "name": "Grooty #101",
+  "symbol": "GROOT",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeih5wy4exis5xemccdeqpoh6jafnjctg36uggzb3qyc32gftqlzedm/101.jpeg",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "7"
+    },
+    {
+      "trait_type": "Groot",
+      "value": "Groot"
+    },
+    {
+      "trait_type": "Clouthing",
+      "value": "Red T-Shirt With Overalls"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange-white Sunglasses"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 128,
+      "display_type": "number",
+      "max_value": 777
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
